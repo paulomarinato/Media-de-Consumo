@@ -1,5 +1,10 @@
 """
 
+Codigo apresentado como base, para efeturar a implementação do projeto, 
+pela disciplina de Estrutura de Dados, do curso de Desenvolvimento e Análise de Sistemas da Universidade de Vila Velha.
+
+>> enchugando duplicação de código
+
 class Nodo:
     def __init__(self, dado=0, proximoNodo=None):
         self.dado = dado
