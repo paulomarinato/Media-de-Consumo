@@ -17,14 +17,18 @@ O programa solicita ao usuário duas informações:
 - Python 3.x
 - Editor: VS Code / PyCharm / Terminal Interativo
 
+---
+
 ## 🚀 Como Executar
 
 1. Clone este repositório ou baixe o arquivo `.py`
 2. Abra um terminal no diretório do arquivo
 3. Execute o comando:
 
-```bash
+bash
 python media_consumo.py
+
+---
 
 ## Autor
 Paulo Roberto Marinato
