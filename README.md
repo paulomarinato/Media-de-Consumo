@@ -25,3 +25,9 @@ O programa solicita ao usuário duas informações:
 
 ```bash
 python media_consumo.py
+
+## Autor
+Paulo Roberto Marinato
+Universidade de Vila Velha – UVV
+Curso: Desenvolvimento e Análise de Sistemas
+Atividade: AOP2 – Programação
